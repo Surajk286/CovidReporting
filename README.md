@@ -16,7 +16,7 @@ Azure Data Lake Storage
 Azure SQL
 Azure Blob Storage
 
-# Link
+# Demo
 https://covidreports.azurewebsites.net/
 
 # Screenshots
