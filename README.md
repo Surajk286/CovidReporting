@@ -24,7 +24,8 @@ https://covidreports.azurewebsites.net/
      <td>Profile screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54182948/125354075-fde69c00-e380-11eb-836a-82eaceee3002.jpeg" height="490" width="270"></td>
+    <td><img src="https://user-images.githubusercontent.com/66421821/150181147-7fe7b729-d77f-4735-a5d2-c72ae455e60f.PNG" height="490" width="270"></td>
+<!--     <td><img src="https://user-images.githubusercontent.com/54182948/125354075-fde69c00-e380-11eb-836a-82eaceee3002.jpeg" height="490" width="270"></td> -->
     <td><img src="https://user-images.githubusercontent.com/54182948/125354117-0b038b00-e381-11eb-9e13-5cd05e4619f5.jpeg" height="490" width="270"></td>
     <td><img src="https://user-images.githubusercontent.com/54182948/125354124-0dfe7b80-e381-11eb-87e5-4bacb6fed4e3.jpeg" height="490" width="270"></td>
   </tr>
