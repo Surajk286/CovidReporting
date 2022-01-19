@@ -22,7 +22,7 @@ https://covidreports.azurewebsites.net/
     <td>Death Count</td>
      <td>Confirmed Cases</td>
      <td>New Cases</td>
-    <td>Cases Count</td>
+    
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/66421821/150181147-7fe7b729-d77f-4735-a5d2-c72ae455e60f.PNG" height="260" width="260"></td> 
@@ -31,6 +31,9 @@ https://covidreports.azurewebsites.net/
     
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/66421821/150182311-b460d7ff-4882-455a-856b-b6acc9ac2f6b.PNG" height="260" width="460"></td>
+  <td>Cases Count</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/66421821/150182311-b460d7ff-4882-455a-856b-b6acc9ac2f6b.PNG" height="260" width="560"></td>
   </tr>
  </table>
