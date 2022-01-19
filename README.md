@@ -12,8 +12,11 @@ Real world problem of reporting Covid-19 trends and prediction of the spread of 
 
 # Azure Services Used
 Azure Databricks
+
 Azure Data Lake Storage
+
 Azure SQL
+
 Azure Blob Storage
 
 # Demo
