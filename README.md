@@ -2,9 +2,12 @@
 Real world problem of reporting Covid-19 trends and prediction of the spread of this virus
 
 # Description
-🔵The project has been made with implementing solution using Azure Data Factory (ADF) for a real world problem of reporting Covid-19 trends and prediction of the spread of this virus. 
+🔵The project has been made with implementing solution using Azure Data Factory (ADF) for a real world problem of reporting Covid-19 trends and prediction of the spread of this virus.
+
 🔵It deals with how to ingest data from sources such as HTTP and Azure Blob Storage into Azure Data Lake Gen2 using Azure Data Factory (ADF)
+
 🔵It deals with transformation of data using Data Flows in Azure Data Factory (ADF) and load into Azure Data Lake Storage Gen2.
+
 🔵It is a solution for today's world scenario as covid cases are rising again so it will show the trends in covid-19 and the prediction of this virus in the near future. This will give idea how dangerous the virus is going to be in the coming days and it will be a warning sign for the people to stay safe and maintain social distancing. Its functionality will really help to predict the spread of the virus.
 
 # Azure Services Used
