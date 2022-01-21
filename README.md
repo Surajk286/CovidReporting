@@ -51,5 +51,4 @@ https://covidreports.azurewebsites.net/
     <td><img src="https://user-images.githubusercontent.com/66421821/150183586-b9655cea-7a66-466d-9f29-8074f5f2df45.PNG" height="280" width="560"></td> 
     <td><img src="https://user-images.githubusercontent.com/66421821/150187070-ae6aea50-2e7b-4b87-8296-8db588882e80.PNG" height="280" width="560"></td>  
   </tr>
-  
  </table>
